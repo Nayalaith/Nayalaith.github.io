@@ -82,6 +82,27 @@ div.container-links {
   margin-bottom: 0.5rem;
 }
 
+.cv .date-column {
+  transform: translateY(-5px);
+
+  .table-cv {
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  .badge {
+    white-space: nowrap;
+  }
+
+  .location {
+    max-width: 100%;
+    margin: 0.35rem 0 0;
+    white-space: normal;
+    overflow-wrap: break-word;
+    line-height: 1.2;
+  }
+}
+
 /*****************************
  * CV MAP styles
  *****************************/

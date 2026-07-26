@@ -295,8 +295,12 @@ ninja.data = [
           {%- assign social_title = "Zotero" -%}
           {%- capture social_url %}"https://www.zotero.org/{{ social[1] }}"{% endcapture -%}
         {%- else -%}
-          {%- assign social_id = "social-" | append: social[0] -%}
-          {%- assign social_title = social[0] | capitalize -%}
+          {%- assign social_id = "social-" | append: social[0] | replace: "_", "-" -%}
+          {%- if social[1].title -%}
+            {%- assign social_title = social[1].title -%}
+          {%- else -%}
+            {%- assign social_title = social[0] | replace: "_", " " | capitalize -%}
+          {%- endif -%}
           {%- capture social_url %}"{{ social[1].url }}"{% endcapture -%}
       {%- endcase -%}
       {

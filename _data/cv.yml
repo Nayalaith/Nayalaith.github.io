@@ -46,7 +46,9 @@ cv:
         start_date: 2025-08
         end_date: Present
         highlights:
-          - Working on multilingual text rendering using diffusion models and training acceleration techniques for diffusion models.
+          - >
+            Working on controllable generative models for scene text editing and multilingual text rendering, and on accelerating the
+            training of state-of-the-art Diffusion Transformer (DiT) and flow-matching models, including rectified flows.
           - >
             Supervised by Prof. [Andrey Kuznetsov](https://scholar.google.com/citations?user=q0lIfCEAAAAJ&hl=en) and Prof.
             [Aibek Alanov](https://scholar.google.com/citations?user=MXJTRGoAAAAJ&hl=en).

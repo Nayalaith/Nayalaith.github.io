@@ -31,8 +31,9 @@ I am a Computer Science B.S. student at [Innopolis University](https://innopolis
 across generative modeling, computer vision, multimodality, and world models.
 
 I currently work as a researcher in the Multimodal Generative AI Research in Industry joint laboratory of Fusion Brain at AIRI and
-Innopolis University. My work focuses on multilingual text rendering with diffusion models and training acceleration techniques for
-diffusion models, supervised by Prof. [Andrey Kuznetsov](https://scholar.google.com/citations?user=q0lIfCEAAAAJ&hl=en) and Prof.
+Innopolis University. My work focuses on controllable generative models for scene text editing and multilingual text rendering, as well
+as accelerating the training of state-of-the-art Diffusion Transformer (DiT) and flow-matching models, including rectified flows,
+supervised by Prof. [Andrey Kuznetsov](https://scholar.google.com/citations?user=q0lIfCEAAAAJ&hl=en) and Prof.
 [Aibek Alanov](https://scholar.google.com/citations?user=MXJTRGoAAAAJ&hl=en).
 
 Previously, I worked as a Lab Assistant in the Quantum Computing Lab at Innopolis University under Professor

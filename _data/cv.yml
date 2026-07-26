@@ -103,7 +103,9 @@ cv:
         releaseDate: 2025
         url: https://www.researchgate.net/publication/394966913_Training-Free_Out-of-Distribution_Segmentation_with_Foundation_Models
 
-      - title: "Q GPT: A New Direction in Quantum AI Integrating Large Language Models with Quantum Optimization for Accelerated Industrial Problem Solving"
+      - title: >
+          Q GPT: A New Direction in Quantum AI Integrating Large Language Models with Quantum Optimization for Accelerated Industrial Problem
+          Solving
         authors:
           - Hadi Salloum
           - Osama Orabi
@@ -119,7 +121,9 @@ cv:
         releaseDate: 2026
         url: https://www.researchgate.net/publication/390747996_Q_GPT_A_New_Direction_in_Quantum_AI_Integrating_Large_Language_Models_with_Quantum_Optimization_for_Accelerated_Industrial_Problem_Solving
 
-      - title: "Evaluating the Advantage 2 Quantum Annealer Prototype: A Comparative Evaluation with Advantage 1 and Hybrid Solver and Classical Restricted Boltzmann Machines on MNIST Classification"
+      - title: >
+          Evaluating the Advantage 2 Quantum Annealer Prototype: A Comparative Evaluation with Advantage 1 and Hybrid Solver and Classical
+          Restricted Boltzmann Machines on MNIST Classification
         authors:
           - Hadi Salloum
           - Laith Nayal

@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Computer Science B.S. student at [Innopolis University](https://innopolis.university/en/) and a researcher working across generative modeling, computer vision, multimodality, and quantum computing.
+I am a Computer Science B.S. student at [Innopolis University](https://innopolis.university/en/) and a researcher working
+across generative modeling, computer vision, multimodality, and quantum computing.
 
-I currently work as a researcher in the Multimodal Generative AI Research in Industry joint laboratory of Fusion Brain at AIRI and Innopolis University. My work focuses on multilingual text rendering with diffusion models and training acceleration techniques for diffusion models.
+I currently work as a researcher in the Multimodal Generative AI Research in Industry joint laboratory of Fusion Brain at AIRI and
+Innopolis University. My work focuses on multilingual text rendering with diffusion models and training acceleration techniques for
+diffusion models.
 
-Previously, I worked as a Lab Assistant in the Quantum Computing Lab at Innopolis University, an AI Research Engineer at Q Deep, and a Python and Algorithmic Thinking Tutor at HUB21. I am also active in competitive programming, including ACM-ICPC, Meta Hacker Cup, Codeforces, and AtCoder.
+Previously, I worked as a Lab Assistant in the Quantum Computing Lab at Innopolis University, an AI Research Engineer at Q Deep, and a
+Python and Algorithmic Thinking Tutor at HUB21. I am also active in competitive programming, including ACM-ICPC, Meta Hacker Cup,
+Codeforces, and AtCoder.

@@ -8,7 +8,7 @@ cv:
   image: ""
   summary: >
     Computer Science B.S. student at Innopolis University and AI researcher focused on generative modeling,
-    computer vision, multimodality, diffusion models, and quantum computing.
+    computer vision, multimodality, diffusion models, and world models.
 
   social_networks:
     - network: GitHub
@@ -37,7 +37,7 @@ cv:
           - Full scholarship funded by Innopolis University.
 
     Research Interests:
-      - bullet: Generative Modeling, Computer Vision, Multi-Modality, and Quantum Computing.
+      - bullet: Generative Modeling, Computer Vision, Multi-Modality, and World Models.
 
     Experience:
       - company: Multimodal Generative AI Research in Industry, Fusion Brain at AIRI and Innopolis University
@@ -47,7 +47,9 @@ cv:
         end_date: Present
         highlights:
           - Working on multilingual text rendering using diffusion models and training acceleration techniques for diffusion models.
-          - Supervised by Prof. Andrey Kuznetsov and Prof. Aibek Alanov.
+          - >
+            Supervised by Prof. [Andrey Kuznetsov](https://scholar.google.com/citations?user=q0lIfCEAAAAJ&hl=en) and Prof.
+            [Aibek Alanov](https://scholar.google.com/citations?user=MXJTRGoAAAAJ&hl=en).
 
       - company: Quantum Computing Lab, Innopolis University
         position: Lab Assistant
@@ -56,7 +58,7 @@ cv:
         end_date: 2025-08
         highlights:
           - Contributed to research on novel methods for modeling uncertainty in deep learning systems.
-          - Worked under the supervision of Professor Yaroslav Kholodov.
+          - Worked under the supervision of Professor [Yaroslav Kholodov](https://scholar.google.com/citations?user=y9VlwHUAAAAJ&hl=en).
 
       - company: Q Deep
         position: AI Research Engineer

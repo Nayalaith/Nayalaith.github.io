@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science student at Innopolis University. AI researcher in generative modeling, computer vision, and quantum computing.
+subtitle: Computer Science student at Innopolis University. AI researcher in generative modeling, computer vision, multimodality, and world models.
 
 profile:
   align: right
-  image:
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Innopolis, Republic of Tatarstan, Russia</p>
@@ -28,12 +28,14 @@ latest_posts:
 ---
 
 I am a Computer Science B.S. student at [Innopolis University](https://innopolis.university/en/) and a researcher working
-across generative modeling, computer vision, multimodality, and quantum computing.
+across generative modeling, computer vision, multimodality, and world models.
 
 I currently work as a researcher in the Multimodal Generative AI Research in Industry joint laboratory of Fusion Brain at AIRI and
 Innopolis University. My work focuses on multilingual text rendering with diffusion models and training acceleration techniques for
-diffusion models.
+diffusion models, supervised by Prof. [Andrey Kuznetsov](https://scholar.google.com/citations?user=q0lIfCEAAAAJ&hl=en) and Prof.
+[Aibek Alanov](https://scholar.google.com/citations?user=MXJTRGoAAAAJ&hl=en).
 
-Previously, I worked as a Lab Assistant in the Quantum Computing Lab at Innopolis University, an AI Research Engineer at Q Deep, and a
-Python and Algorithmic Thinking Tutor at HUB21. I am also active in competitive programming, including ACM-ICPC, Meta Hacker Cup,
-Codeforces, and AtCoder.
+Previously, I worked as a Lab Assistant in the Quantum Computing Lab at Innopolis University under Professor
+[Yaroslav Kholodov](https://scholar.google.com/citations?user=y9VlwHUAAAAJ&hl=en), an AI Research Engineer at Q Deep, and a Python and
+Algorithmic Thinking Tutor at HUB21. I am also active in competitive programming, including ACM-ICPC, Meta Hacker Cup, Codeforces, and
+AtCoder.

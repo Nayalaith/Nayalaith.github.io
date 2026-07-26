@@ -10,11 +10,11 @@ contact_note: >
   Best way to reach me is by email at nayallaith2002@gmail.com or l.nayal@innopolis.university.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Portfolio of Laith Nayal, a computer science student and AI researcher working on generative modeling,
-  computer vision, multimodality, and quantum computing.
+  computer vision, multimodality, and world models.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: computer vision, generative ai, diffusion models, quantum computing, machine learning, portfolio # add your own keywords or leave empty
+keywords: computer vision, generative ai, diffusion models, world models, multimodal learning, machine learning, portfolio # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

@@ -37,6 +37,6 @@ supervised by Prof. [Andrey Kuznetsov](https://scholar.google.com/citations?user
 [Aibek Alanov](https://scholar.google.com/citations?user=MXJTRGoAAAAJ&hl=en).
 
 Previously, I worked as a Lab Assistant in the Quantum Computing Lab at Innopolis University under Professor
-[Yaroslav Kholodov](https://scholar.google.com/citations?user=y9VlwHUAAAAJ&hl=en), an AI Research Engineer at Q Deep, and a Python and
-Algorithmic Thinking Tutor at HUB21. I am also active in competitive programming, including ACM-ICPC, Meta Hacker Cup, Codeforces, and
-AtCoder.
+[Yaroslav Kholodov](https://scholar.google.com/citations?user=y9VlwHUAAAAJ&hl=en), with whom I co-authored research alongside Hadi
+Salloum. I also worked as an AI Research Engineer at Q Deep and as a Python and Algorithmic Thinking Tutor at HUB21. I am active in
+competitive programming, including ACM-ICPC, Meta Hacker Cup, Codeforces, and AtCoder.
